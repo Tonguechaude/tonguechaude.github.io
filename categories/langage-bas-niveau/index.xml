@@ -10,9 +10,9 @@
     <atom:link href="https://tonguechaude.github.io/categories/langage-bas-niveau/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Convertisseur Rust</title>
-      <link>https://tonguechaude.github.io/posts/convertisseurrust/</link>
+      <link>https://tonguechaude.github.io/projets/convertisseurrust/</link>
       <pubDate>Mon, 25 Nov 2024 19:04:44 +0100</pubDate>
-      <guid>https://tonguechaude.github.io/posts/convertisseurrust/</guid>
+      <guid>https://tonguechaude.github.io/projets/convertisseurrust/</guid>
       <description>Simple rust converter</description>
     </item>
   </channel>

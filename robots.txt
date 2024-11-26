@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://tonguechaude.github.io/sitemap.xml
