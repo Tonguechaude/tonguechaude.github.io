@@ -4,7 +4,7 @@
     <title>Docker on Portfolio</title>
     <link>https://tonguechaude.github.io/tags/docker/</link>
     <description>Recent content in Docker on Portfolio</description>
-    <generator>Hugo -- 0.136.5</generator>
+    <generator>Hugo -- 0.140.2</generator>
     <language>fr</language>
     <lastBuildDate>Mon, 25 Nov 2024 19:04:44 +0100</lastBuildDate>
     <atom:link href="https://tonguechaude.github.io/tags/docker/index.xml" rel="self" type="application/rss+xml" />
@@ -14,6 +14,13 @@
       <pubDate>Mon, 25 Nov 2024 19:04:44 +0100</pubDate>
       <guid>https://tonguechaude.github.io/projets/convertisseurrust/</guid>
       <description>Simple rust converter</description>
+    </item>
+    <item>
+      <title>VoteOmatic</title>
+      <link>https://tonguechaude.github.io/projets/voteomatic/</link>
+      <pubDate>Mon, 25 Nov 2024 19:04:44 +0100</pubDate>
+      <guid>https://tonguechaude.github.io/projets/voteomatic/</guid>
+      <description>application de vote sécurisée</description>
     </item>
   </channel>
 </rss>

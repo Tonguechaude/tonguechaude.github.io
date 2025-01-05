@@ -4,10 +4,24 @@
     <title>Tags on Portfolio</title>
     <link>https://tonguechaude.github.io/tags/</link>
     <description>Recent content in Tags on Portfolio</description>
-    <generator>Hugo -- 0.136.5</generator>
+    <generator>Hugo -- 0.140.2</generator>
     <language>fr</language>
     <lastBuildDate>Mon, 25 Nov 2024 19:04:44 +0100</lastBuildDate>
     <atom:link href="https://tonguechaude.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>API</title>
+      <link>https://tonguechaude.github.io/tags/api/</link>
+      <pubDate>Mon, 25 Nov 2024 19:04:44 +0100</pubDate>
+      <guid>https://tonguechaude.github.io/tags/api/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Asynchrone</title>
+      <link>https://tonguechaude.github.io/tags/asynchrone/</link>
+      <pubDate>Mon, 25 Nov 2024 19:04:44 +0100</pubDate>
+      <guid>https://tonguechaude.github.io/tags/asynchrone/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Docker</title>
       <link>https://tonguechaude.github.io/tags/docker/</link>
@@ -16,10 +30,66 @@
       <description></description>
     </item>
     <item>
+      <title>Docker Compose</title>
+      <link>https://tonguechaude.github.io/tags/docker-compose/</link>
+      <pubDate>Mon, 25 Nov 2024 19:04:44 +0100</pubDate>
+      <guid>https://tonguechaude.github.io/tags/docker-compose/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ElGamal</title>
+      <link>https://tonguechaude.github.io/tags/elgamal/</link>
+      <pubDate>Mon, 25 Nov 2024 19:04:44 +0100</pubDate>
+      <guid>https://tonguechaude.github.io/tags/elgamal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Java</title>
+      <link>https://tonguechaude.github.io/tags/java/</link>
+      <pubDate>Mon, 25 Nov 2024 19:04:44 +0100</pubDate>
+      <guid>https://tonguechaude.github.io/tags/java/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Jeu</title>
+      <link>https://tonguechaude.github.io/tags/jeu/</link>
+      <pubDate>Mon, 25 Nov 2024 19:04:44 +0100</pubDate>
+      <guid>https://tonguechaude.github.io/tags/jeu/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MariaDB</title>
+      <link>https://tonguechaude.github.io/tags/mariadb/</link>
+      <pubDate>Mon, 25 Nov 2024 19:04:44 +0100</pubDate>
+      <guid>https://tonguechaude.github.io/tags/mariadb/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Rust</title>
       <link>https://tonguechaude.github.io/tags/rust/</link>
       <pubDate>Mon, 25 Nov 2024 19:04:44 +0100</pubDate>
       <guid>https://tonguechaude.github.io/tags/rust/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Spring</title>
+      <link>https://tonguechaude.github.io/tags/spring/</link>
+      <pubDate>Mon, 25 Nov 2024 19:04:44 +0100</pubDate>
+      <guid>https://tonguechaude.github.io/tags/spring/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SQLite</title>
+      <link>https://tonguechaude.github.io/tags/sqlite/</link>
+      <pubDate>Mon, 25 Nov 2024 19:04:44 +0100</pubDate>
+      <guid>https://tonguechaude.github.io/tags/sqlite/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Swing</title>
+      <link>https://tonguechaude.github.io/tags/swing/</link>
+      <pubDate>Mon, 25 Nov 2024 19:04:44 +0100</pubDate>
+      <guid>https://tonguechaude.github.io/tags/swing/</guid>
       <description></description>
     </item>
   </channel>

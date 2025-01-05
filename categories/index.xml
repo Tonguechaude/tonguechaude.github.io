@@ -4,22 +4,29 @@
     <title>Categories on Portfolio</title>
     <link>https://tonguechaude.github.io/categories/</link>
     <description>Recent content in Categories on Portfolio</description>
-    <generator>Hugo -- 0.136.5</generator>
+    <generator>Hugo -- 0.140.2</generator>
     <language>fr</language>
     <lastBuildDate>Mon, 25 Nov 2024 19:04:44 +0100</lastBuildDate>
     <atom:link href="https://tonguechaude.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Langage Bas Niveau</title>
-      <link>https://tonguechaude.github.io/categories/langage-bas-niveau/</link>
+      <title>Application</title>
+      <link>https://tonguechaude.github.io/categories/application/</link>
       <pubDate>Mon, 25 Nov 2024 19:04:44 +0100</pubDate>
-      <guid>https://tonguechaude.github.io/categories/langage-bas-niveau/</guid>
+      <guid>https://tonguechaude.github.io/categories/application/</guid>
       <description></description>
     </item>
     <item>
-      <title>Presentation</title>
-      <link>https://tonguechaude.github.io/categories/presentation/</link>
+      <title>Cryptographie</title>
+      <link>https://tonguechaude.github.io/categories/cryptographie/</link>
       <pubDate>Mon, 25 Nov 2024 19:04:44 +0100</pubDate>
-      <guid>https://tonguechaude.github.io/categories/presentation/</guid>
+      <guid>https://tonguechaude.github.io/categories/cryptographie/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Présentation</title>
+      <link>https://tonguechaude.github.io/categories/pr%C3%A9sentation/</link>
+      <pubDate>Mon, 25 Nov 2024 19:04:44 +0100</pubDate>
+      <guid>https://tonguechaude.github.io/categories/pr%C3%A9sentation/</guid>
       <description></description>
     </item>
   </channel>
